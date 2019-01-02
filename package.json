@@ -11,5 +11,9 @@
     "url": "?.git"
   },
   "author": "Shaun Price",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-util": "^3.0.8"
+  }
 }
