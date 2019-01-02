@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf079c47-d78b-4dcf-bded-56882f3287e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/development/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/development/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/coffee/tagline.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/components/coffee/tagline.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/scripts/tagline.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/scripts/tagline.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -19,15 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/scripts/template.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Builds/development/js/data.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1265">
@@ -36,12 +29,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/coffee/tagline.coffee">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Builds/development/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-            </state>
+            <state relative-caret-position="-255611" />
           </provider>
         </entry>
       </file>
@@ -55,6 +46,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/scripts/template.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            <state relative-caret-position="575">
+              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -88,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/components/coffee/tagline.coffee" />
         <option value="$PROJECT_DIR$/components/scripts/pixgrid.js" />
         <option value="$PROJECT_DIR$/components/scripts/rclick.js" />
         <option value="$PROJECT_DIR$/components/scripts/template.js" />
@@ -103,13 +102,14 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/components/coffee/tagline.coffee" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1166" />
-    <option name="y" value="301" />
+    <option name="x" value="930" />
+    <option name="y" value="270" />
     <option name="width" value="1418" />
     <option name="height" value="1050" />
   </component>
@@ -126,6 +126,24 @@
             <path>
               <item name="workflows" type="b2602c69:ProjectViewProjectNode" />
               <item name="workflows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workflows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+              <item name="Builds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workflows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+              <item name="Builds" type="462c0819:PsiDirectoryNode" />
+              <item name="development" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workflows" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
+              <item name="Builds" type="462c0819:PsiDirectoryNode" />
+              <item name="development" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workflows" type="b2602c69:ProjectViewProjectNode" />
@@ -174,15 +192,15 @@
       <option name="presentableId" value="Default" />
       <updated>1546395722280</updated>
       <workItem from="1546395723446" duration="2370000" />
-      <workItem from="1546398148778" duration="7074000" />
+      <workItem from="1546398148778" duration="7904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9444000" />
+    <option name="totallyTimeSpent" value="10274000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1166" y="301" width="1418" height="1050" extended-state="0" />
+    <frame x="930" y="270" width="1418" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -272,20 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/scripts/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/coffee/tagline.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -310,10 +314,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/scripts/tagline.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/coffee/tagline.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/scripts/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -324,18 +356,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/Builds/development/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
+        <state relative-caret-position="-255611" />
       </provider>
     </entry>
   </component>
