@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf079c47-d78b-4dcf-bded-56882f3287e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Builds/development/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Builds/development/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/coffee/tagline.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/components/coffee/tagline.coffee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/scripts/tagline.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/scripts/tagline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -29,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Builds/development/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-255611" />
@@ -63,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <state relative-caret-position="667">
+              <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -108,8 +106,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="930" />
-    <option name="y" value="270" />
+    <option name="x" value="1347" />
+    <option name="y" value="190" />
     <option name="width" value="1418" />
     <option name="height" value="1050" />
   </component>
@@ -167,7 +165,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,15 +190,15 @@
       <option name="presentableId" value="Default" />
       <updated>1546395722280</updated>
       <workItem from="1546395723446" duration="2370000" />
-      <workItem from="1546398148778" duration="7904000" />
+      <workItem from="1546398148778" duration="8973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10274000" />
+    <option name="totallyTimeSpent" value="11343000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="930" y="270" width="1418" height="1050" extended-state="0" />
+    <frame x="1347" y="190" width="1418" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -321,13 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/scripts/tagline.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -359,6 +350,13 @@
     <entry file="file://$PROJECT_DIR$/Builds/development/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255611" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
       </provider>
     </entry>
   </component>
